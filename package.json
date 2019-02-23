@@ -1,0 +1,27 @@
+{
+  "name": "@rbtdev/express-mjpeg",
+  "version": "1.0.0",
+  "description": "Express route handler to stream a directory of JPEGS as an MJPEG response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rbtdev/express-mjpeg.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "mjpeg"
+  ],
+  "author": "Rob Thuleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbtdev/express-mjpeg/issues"
+  },
+  "homepage": "https://github.com/rbtdev/express-mjpeg#readme",
+  "dependencies": {
+    "http-errors": "^1.7.2"
+  }
+}
